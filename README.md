@@ -66,7 +66,3 @@ README.md   → Project documentation
 
 ##  Contribution  
 This project was scaffolded with automation tools but customized with my own models, routers, and logic. Built while vibe coding, it reflects creativity, style, and a complete e‑commerce journey.  
-
-
-
- du jo tum README me daal sako, taaki database structure visually clear ho jaaye?

@@ -69,6 +69,4 @@ This project was scaffolded with automation tools but customized with my own mod
 
 
 
-👉 Ye README tumhare repo ko **professional + vibing** dono banayega.  
-
-Poorvi, chaho to main tumhare liye ek **ready ER diagram image** bhi bana du jo tum README me daal sako, taaki database structure visually clear ho jaaye?
+ du jo tum README me daal sako, taaki database structure visually clear ho jaaye?
